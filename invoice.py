@@ -34,7 +34,7 @@ options = [
 clicked = StringVar()
   
 # initial menu text
-clicked.set( "Monday" )
+clicked.set( "tuesday" )
   
 # Create Dropdown menu
 drop = OptionMenu( root , clicked , *options )
