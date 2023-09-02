@@ -24,9 +24,9 @@ options = [
     "Monday",
     "Tuesday",
     "Wedday",
-    "Thuday",
-    "Fday",
-    "Sarday",
+    "Thruday",
+    "Frday",
+    "Satrday",
     "Sunday"
 ]
   
