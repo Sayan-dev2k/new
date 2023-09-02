@@ -23,10 +23,10 @@ def show():
 options = [
     "Monday",
     "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
+    "Wedday",
+    "Thuday",
+    "Fday",
+    "Sarday",
     "Sunday"
 ]
   
